@@ -1,1 +1,2 @@
-Escribiendo este archivo de texto porque estoy haciendo el curso de git y github en platzi
+Escribiendo este archivo de texto porque estoy haciendo el curso de git y github en platzi.
+Editando este archivo
