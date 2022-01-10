@@ -28,7 +28,6 @@ body {
     border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
-<<<<<<< HEAD
     background-color:#eee;
 }
 .img-container{
@@ -38,7 +37,6 @@ body {
 img {
     width: 100%;
     height: auto;
-=======
 }
 .footer{
     width: 50%;
@@ -48,5 +46,4 @@ img {
     align-items: center;
     margin-right: auto ;
     margin-left: auto;
->>>>>>> footer
 }
