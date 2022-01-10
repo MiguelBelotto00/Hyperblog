@@ -2,4 +2,5 @@ Escribiendo este archivo de texto porque estoy haciendo el curso de git y github
 Editando este archivo
 Segundo Edit de este archivo para seguir viendo cuales son los cambios con el comando show.
 Hablaremos de su historia y sus obras
-master 2
+experimento 1
+experimento 2
