@@ -6,4 +6,5 @@ Haciendo prueba sobre como escribir un Readme gracias al curso de platzi
 <ul>
 <li>Nunca pares de Aprender</li>
 <li>Vamos a seguir creciendo</li>
+<li>Creado por el increible platzi team</li>
 </ul>
